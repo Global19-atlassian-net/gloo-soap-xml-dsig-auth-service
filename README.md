@@ -1,1 +1,1 @@
-# gloo-soap-xml-dsig-auth-service
+# Gloo Edge SOAP XML Digital Signature Authorization Service
